@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "141106759623",
+    "firebase_url": "https://kazzu-f67e4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kazzu-f67e4",
+    "storage_bucket": "kazzu-f67e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141106759623:android:95ccf6d675bf43562bbbe2",
+        "android_client_info": {
+          "package_name": "com.VoidwalkerInteractive.Kazzu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZQrtETDOONLaPuTqMmdzET7In58-Re-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
